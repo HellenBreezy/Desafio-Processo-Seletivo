@@ -1,3 +1,5 @@
+package exercicios.fibonacci;
+
 import java.util.Scanner;
 
 public class Fibonacci {
@@ -20,9 +22,9 @@ public class Fibonacci {
         }
 
         if (pertence) {
-            System.out.println(n + " Pertence à sequência de Fibonacci.");
+            System.out.println(n + " Pertence à sequência de exercicios.fibonacci.Fibonacci.");
         } else {
-            System.out.println(n + " Não pertence à sequência de Fibonacci.");
+            System.out.println(n + " Não pertence à sequência de exercicios.fibonacci.Fibonacci.");
         }
     }
 }
